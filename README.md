@@ -26,6 +26,7 @@ If you'd like to install it, follow [these directions](https://github.com/sclorg
 
 The steps in this document assume that you have access to an OpenShift deployment that you can deploy applications on.
 
+This is a jerry test file.
 OpenShift Considerations
 ------------------------
 These are some special considerations you may need to keep in mind when running your application on OpenShift.
